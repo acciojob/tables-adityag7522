@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table {
+	border-collapse: collapse;
+	font: font-monospace;
+	width: 100%;
+}
+
+th {
+	text-align: left;
+}
+
+tr {
+	border: 1px solid grey;
+}
+
+thead {
+	background-color: black;
+	color: white
+}
+
+.total {
+	text-align: right;
+}
